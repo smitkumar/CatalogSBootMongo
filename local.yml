@@ -1,0 +1,5 @@
+server:
+    type: localhost
+    applicationConnectors:
+        -   type: http
+            port: 8989
